@@ -3,7 +3,7 @@
 Available staff - ideally whole Code of Conduct Response Team or as many members
 of the team as possible - should meet immediately after receiving a report.
 
-**Neither the complainant nor the alleged harasser should attend.**
+**Neither the reporter nor the reported person should attend.**
 People with a conflict of interest should exclude themselves or if necessary be excluded by others.
 
 If the event was widely witnessed, make sure that you let people know that the Code of Conduct team is taking care of the issue.

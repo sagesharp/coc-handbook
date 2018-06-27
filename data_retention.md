@@ -1,6 +1,6 @@
 # Data retention
 
-Your internal track of incidents should be kept as safe as possible, and contain as little information as possible, but enough to make sure it’s actually useful to prevent from harassers attending your event.
+Your internal track of incidents should be kept as safe as possible, and contain as little information as possible, but enough to make sure it’s actually useful to prevent from banned attendees from registering or showing up at your event.
 
 A minimal number of people should be able to access the Spreadsheet. Make sure to share it with only specific people -- ideally only Conference Chair and Code of Conduct team should be able to access it.
 

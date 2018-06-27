@@ -71,7 +71,7 @@ if understanding is not achieved.
 
 So on *Next day*, *Response Team Member A and B* took him aside to an empty room
 and went over what happened, explaining our stance on the issue and the reason why we don't accept it.
-The harasser immediately apologized on their own (without any prompt from us).
+The reported person immediately apologized on their own (without any prompt from us).
 They said that after thinking on it, they realized fully how their behavior was
  wrong and they thanked us for stepping in. The whole meeting lasted about 10 minutes,
   was very calm and overall successful.

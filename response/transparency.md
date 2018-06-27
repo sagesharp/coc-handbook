@@ -5,15 +5,15 @@ One of the most important parts of dealing with Code of Conduct issues during th
 In our experience at almost every event there are a smaller or bigger Code of Conduct issues, however they rarely get reported. Being transparent about what happened during your event gives a clear message to the future attendees that Code of Conduct is taken very seriously by your organizing team and people start to trust that their report won't be ignored. 
 
 You want to be transparent to your community and not have secret policies and sanctions that you aren't accountable for
-the actions of the harasser, or reports of multiple harassment. It's also important to be transparent, because it reassures people that you are serious about your anti-harrasment policy.
+the actions of the reported person, or multiple reports involving that person. It's also important to be transparent, because it reassures people that you are serious about your Code of Conduct.
 
 Being transparent about what happened also gives attendees an overview of things that might be reported in a future. 
 
 ### Level of detail
-When discussing the incident with others, it is good to keep the individuals anonymous, generally. (An exception may be if the harasser is very central to the community, such as a core conference staffer.) However, it is useful to:
+When discussing the incident with others, it is good to keep the individuals anonymous, generally. (An exception may be if the reported person is very central to the community, such as a core conference staffer.) However, it is useful to:
 - describe the nature of the incident e.g. "a sexual slide was shown in a talk" or "an attendee physically threatened another attendee" or "an attendee repeatedly harassed another attendee despite multiple requests to cease" or whatever applies to the situation.
 - briefly mention the sanction
-- (briefly! neutrally!) convey any apologies from the harasser, especially if they were backed by actions, for example "the [attendee/speaker/staffer] has agreed that their actions were inappropriate and has voluntarily left the conference"
+- (briefly! neutrally!) convey any apologies from the reported person, especially if they were backed by actions, for example "the [attendee/speaker/staffer] has agreed that their actions were inappropriate and has voluntarily left the conference"
 
 This helps your community understand the reality of the policy: how and when it gets enforced.
 

@@ -1,6 +1,6 @@
 # Receiving reports
 
-If someone reports harassment directly to you or any other conference staff, make sure to get a written account of what happened. This should be kept strictly confidential to the Code of Conduct Response Team.
+If someone makes a Code of Conduct report directly to you or any other conference staff, make sure to get a written account of what happened. This should be kept strictly confidential to the Code of Conduct Response Team.
 
 In case of a verbal report, you should yourself write down what you were told as soon as you can, in case you're not able to follow up. A verbal report lasting more than a minute or so is probably better conducted in a quiet/private place rather than in a general event space, for the safety and comfort of the reporter. This also decreases the chances that someone will overhear sensitive information that the reporter may not want spread around to the entire event.
 
@@ -8,7 +8,7 @@ If the following information is not volunteered in the written or verbal report,
 
 Things worth writing down at this point: 
 
-- Identifying information (name) of the participant doing the harassing
+- Identifying information (name) of the reported person
 - The behavior that was in violation
 - The approximate time of the behavior (if different than the time the report was made)
 - The circumstances surrounding the incident
