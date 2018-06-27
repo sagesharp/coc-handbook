@@ -33,3 +33,7 @@ make sure that CoC response team is monitoring official Twitter account and
 event's hashtag if it exists.
 
 Make sure to always keep an eye on any medium of exchanging information available for people attending your event.
+
+## Communicating the report
+
+If you are a conference staff member or an incident team member who does not have the authority to make an immediate decision about a report, you should contact the lead incident responder(s). If this is an immediate safety issue (e.g. a reporter is feeling unsafe or threatened), call the lead incident responder(s). If the report is less urgent, you can communicate the report via email or verbally to the lead incident responder(s).
