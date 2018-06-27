@@ -10,18 +10,18 @@ going to meet the reported person. In case of minor incidents, if the talk goes 
  it's removed from published version of the talk, is the tweet was offending, we ask author to remove it, so on and so on.
 
 However, your decision may change if during the talk it will be clear that
-offender indeed meant harm, or just "did not care". In this case, you should not
+the reported person indeed meant harm, or just "did not care". In this case, you should not
 make a decision on spot, but meet with your Response Team to decide a new sanction
 after "the talk". 
 
-The possible sanctions might be different if the offender feels sorry for their actions
+The possible sanctions might be different if the reported person feels sorry for their actions
 or if they are defensive and angry about the report. It may also depend on whether their
 actions were deliberate or they intended no harm.
 
 Most Code of Conduct incidents reach a common understanding, and giving people a warning
 to allow them to correct their actions in the future is the best solution in the situation. 
 
-In case the offender poses a threat to other attendees or organizers of the event, Response Team 
+In case the reported person poses a threat to other attendees or organizers of the event, Response Team 
 could take more extreme steps to ensure safety of everyone at the event.
 
 ## Possible sanctions

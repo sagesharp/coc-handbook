@@ -43,12 +43,12 @@ what impact the reported person's behavior had on the reporter,
 * describe any planned actions taken:
     - if you decide to speak with involved sides, document who will meet and talk to them,
     - write down reactions of the involved sides on your Code of Conduct process -
-does the offender feels sorry? Or do they cause further problems?
+does the reported person feels sorry? Or do they cause further problems?
     - document if you send any e-mails or ask any third parties for input and why,
 * describe any decisions about further actions:
     - does the situation will be reported to anyone?
     - does the conference organizers or Code of Conduct team need to do anything?
-* if the offender is causing problems during the Code of Conduct process
+* if the reported person is causing problems during the Code of Conduct process
 make sure to document it too. Copy e-mails or make screenshots whenever applicable.
 
 ## Example report

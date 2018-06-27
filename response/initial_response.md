@@ -20,7 +20,7 @@ For all other reports that don't threat physical well-being, you should do the f
   - Or, if the incident was of a very private matter, say: “If you're OK with it I am going to convene a meeting of Code of Conduct team and decide what our response will be." Pause, and see if they say they do not want this. Otherwise, go ahead; 
 - make sure to let them know you will inform them about the actions/progress of the Code of Conduct team.
 - make sure they know that their personal information will not be disclosed to anyone except Code of Conduct team and DSF Code of Conduct committee
-  - stress out that their identity will not be revealed (unless it is necessary in handling the issue) to the offender.
+  - stress out that their identity will not be revealed (unless it is necessary in handling the issue) to the reported person.
 
 #### Reports by e-mail
 
@@ -41,4 +41,4 @@ If you receive report by phone:
 
 Follow the steps from phone/e-mail sections. Ideally meet and ask for the better way to communicate with them.
 
-If the report is in public tweet - make sure to tweet: "We will contact you shortly" and ask about details in private message. If it's possible it would be good to ask them to remove Tweet, to avoid them being exposed to random people from Twitter and public shaming of the offender. 
+If the report is in public tweet - make sure to tweet: "We will contact you shortly" and ask about details in private message. If it's possible it would be good to ask them to remove Tweet, to avoid them being exposed to random people from Twitter and public shaming of the reported person. 

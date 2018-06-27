@@ -8,16 +8,16 @@ People with a conflict of interest should exclude themselves or if necessary be 
 
 Goals of the meeting:
 
-- **Discuss the talk with offender/reporter/vistims with the whole team**
-	Describe how the talk went: how the offender reacted, if they are sorry and
+- **Discuss the talk with reported person/reporter with the whole team**
+	Describe how the talk went: how the reported person reacted, if they are sorry and
 	cooperative? Or they were defensive or agressive? Do they agreed to the proposed
 	by Response Team solution?
 
 - **Decide if any further actions are required**
-	It is possible that the talk with offender/reporter/vistim brings new light
+	It is possible that the talk with the reported person/reporter brings new light
 	to the reported situation. You should share it with the team and decide
 	together if any extra actions should be taken. For example, if speaking with
-	the offender revealed that they might be a thread for safety of other attendees,
+	the reported person revealed that they might be a thread for safety of other attendees,
 	you want to discuss further steps.
 
 - **Decide if case is closed**
@@ -31,13 +31,13 @@ the reported person, and anyone else impacted by the incident
 
 Let the reporter know about:
 
-* what actions you took (talking to offender, sanctions you used, etc.),
+* what actions you took (talking to reported person, sanctions you used, etc.),
 * what is the outcome of this and what was done to minimzie the damage (i.e. deleting Tweet),
 * if there are any steps you need to take - inform them about them. If not, inform that the case is closed,
 * if there was any fault on the side of organizers, make sure to apologize, (i.e. if you screened the slides before the event, but you did not spot the offensive one),
 * thank them for reporting.
 
-Write to offender:
+Write to reported person:
 
 * sum up your talk with them: explain what was a report and how it violated your Code of Conduct,
 * inform them about a sanctions.

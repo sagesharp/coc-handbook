@@ -30,7 +30,7 @@ Goals of the meeting:
 	This is usually a good idea. If you haven't met with your reporter yet and you
 	feel like more context is required, do this first. Speaking with people with the
 	idea to achieve common understanding is the key to most Code of Conduct violations.
-	If you're going to arrange meetings, never speak to both reporter and offender
+	If you're going to arrange meetings, never speak to both the reporter and the reported person
 	at the same time -- these should be two separate meetings. This decision should
 	also include *who* is going to talk to them and *when*.
 - **Decide on possible outcome**
