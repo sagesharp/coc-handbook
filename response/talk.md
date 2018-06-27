@@ -8,7 +8,7 @@ It’s never an easy conversation to have and it’s always good to be prepared 
 ## Who
 
 Ideally, there should be two members of the Response Team giving a warning.
-If Response Team member has a conflict of interest, they should exclude
+If a Response Team member has a conflict of interest, they should exclude
 themselves from the conversation.
 
 ## Where
