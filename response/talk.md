@@ -30,7 +30,7 @@ on the same side when it comes to:
 
 The first step is to ask the reported person to meet and speak with you in a private space.
 
-For smaller events, it's easy to find the reported person.
+For smaller events, it's easy to find the reported person and ask them to have a discussion.
 For larger events, this may be harder.
 In order to help you be able to contact a reported person, your registration for your event should collect names, email addresses, and phone numbers.
 Collecting company names is also useful to help fully identify a reported person, since people will often talk about their employer in conversation, but not give their last name.
