@@ -6,8 +6,8 @@ As soon as possible, either before or during the above meeting, let the reported
 ### Communicate with the reported person the response
 As soon as possible after that meeting, let the reported person know what action is being taken. Give them a place to appeal to if there is one, but in the meantime the action stands. "If you'd like to discuss this further, please contact XYZ, but in the meantime, you must something something"
 
-### Communicate with the victim about the complaint
-After action has been taken, communicate with the victim to let them know about your decision and sanctions made towards the reported person.
+### Communicate with the reporter about the report
+After action has been taken, communicate with the reporter to let them know about your decision and sanctions made towards the reported person.
 
 ### Report the incidents to the DSF Code of Conduct committee
 It’s important to make sure that the DSF’s Code of Conduct committee is aware that an incident happened. This helps to detect common patterns, and makes everyone safe.

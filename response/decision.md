@@ -34,7 +34,7 @@ community based on the nature of the incident and the responses of the people in
 but some possibilities are:
 
 - warning the reported person to cease their behaviour and that any further reports will result in sanctions
-- requiring that the reported person avoid any interaction with, and physical proximity to, their victim for the remainder of the event
+- requiring that the reported person avoid any interaction with, and physical proximity to, the reporter for the remainder of the event
 - ending a talk that violates the policy early
 - not publishing the video or particular slide of a talk that violated the policy
 - not allowing a speaker who violated the policy to give (further) talks at this conference events
@@ -50,10 +50,10 @@ but some possibilities are:
 If a reported person instigated an incident while they were in an official employee capacity, such as while working as paid event staff, while giving a talk about their employer's product, while staffing a sponsor booth, while wearing their employer's branded merchandise, while attempting to recruit someone for a job, or while claiming to represent their employer's views, it may be appropriate to provide a short report of their conduct to their employer.
 
 ### Don't require or encourage apologies
-We do not suggest asking for an apology to the victim. You have no responsibility to enforce friendship, reconciliation, or anything beyond lack of inappropriate behavior between any two given attendees, and in fact doing so can contribute to someone's lack of safety at your event.
+We do not suggest asking for an apology to the reporter. You have no responsibility to enforce friendship, reconciliation, or anything beyond lack of inappropriate behavior between any two given attendees, and in fact doing so can contribute to someone's lack of safety at your event.
 Forcing the reporter to acknowledge an apology from the reported person forces further uncomfortable contact, and puts more importance on the reported person's need to feel better about what they did over the reporter's need to feel safe.
 It also creates a social expectation that the reporter will accept the apology, forgive the reported person, and return their social connection to its previous status.
 
-If the reported person offers to apologize to the victim (especially in person), we suggest strongly discouraging it. If a staff member relays an apology to the victim, it should be brief and not require a response. ("X apologizes and agrees to have no further contact with you" is brief. "X is very sorry that their attempts to woo you were not received in the manner that was intended and will try to do better next time, they're really really sorry and hope that you can find it in your heart to forgive them" is emphatically not.)
+If the reported person offers to apologize to the reporter (especially in person), we suggest strongly discouraging it. If a staff member relays an apology to the reporter, it should be brief and not require a response. ("X apologizes and agrees to have no further contact with you" is brief. "X is very sorry that their attempts to woo you were not received in the manner that was intended and will try to do better next time, they're really really sorry and hope that you can find it in your heart to forgive them" is emphatically not.)
 
 If the reported person attempts to press an apology on someone who would clearly prefer to avoid them, or attempts to recruit others to relay messages on their behalf, this may constitute an additional violation of the Code of Conduct.

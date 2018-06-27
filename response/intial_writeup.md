@@ -39,7 +39,7 @@ to only that):
 * when and where the reported incident happened
 * who was involved?
 * description of the received report: what happened? - make sure to state clearly
-who is a victim or who feels offended or uncomfortable,
+what impact the reported person's behavior had on the reporter,
 * describe any planned actions taken:
     - if you decide to speak with involved sides, document who will meet and talk to them,
     - write down reactions of the involved sides on your Code of Conduct process -

@@ -6,11 +6,11 @@ The initial response and acknowledgement of received report should be sent to a 
 Most Code of Conduct incident reports aren't of this nature, but if someone reports that an attendee has committed or is threatening violence towards another attendee, or other safety issues:
 - take action as soon as possible
 - if there is any general threat to attendees or the safety of anyone including conference staff is in doubt, summon security or police.
-- if everyone is presently physically safe, involve law enforcement or security only at a victim's request. In many cases, giving a report to law enforcement is very unpleasant for reporters who have been traumatized by an incident. Reporting to the police may result in harassment, either by the police, or through retaliation when the police contact the reported person. A staff member can provide the list of emergency contacts and say something like "if you want any help reporting this incident, please let us know" and leave it at that.
+- if everyone is presently physically safe, involve law enforcement or security only at a reporter's request. In many cases, giving a report to law enforcement is very unpleasant for reporters who have been traumatized by an incident. Reporting to the police may result in harassment, either by the police, or through retaliation when the police contact the reported person. A staff member can provide the list of emergency contacts and say something like "if you want any help reporting this incident, please let us know" and leave it at that.
 
 ### All other reports
 For all other reports that don't threat physical well-being, you should do the following: 
-- offer the victim a private place to sit;
+- offer the reporter a private place to sit;
 - ask "is there a friend or trusted person who you would like to be with you?" (if so, arrange for someone to fetch this person);
 - let them know that the Code of Conduct team will handle the matter;
 - ask them if there is anything you could help with and offer assistance;

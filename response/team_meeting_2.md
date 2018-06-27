@@ -26,9 +26,10 @@ Goals of the meeting:
 
 
 After the meeting the Response Team writes e-mail to all involved sides: reporter,
-victim and offender about the actions taken and the end result of the work of Response Team.
+the reported person, and anyone else impacted by the incident
+ about the actions taken and the end result of the work of Response Team.
 
-Let reporter/victim know about:
+Let the reporter know about:
 
 * what actions you took (talking to offender, sanctions you used, etc.),
 * what is the outcome of this and what was done to minimzie the damage (i.e. deleting Tweet),
